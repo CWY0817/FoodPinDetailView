@@ -99,7 +99,7 @@
                         </connections>
                     </tableView>
                     <navigationItem key="navigationItem" title="Food Pin" id="w5e-sp-kFw">
-                        <barButtonItem key="backBarButtonItem" title=" " id="JBd-SE-jbG"/>
+                        <barButtonItem key="backBarButtonItem" title=" " id="zAN-YK-A8l"/>
                     </navigationItem>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="eqA-0b-gq1" userLabel="First Responder" sceneMemberID="firstResponder"/>
